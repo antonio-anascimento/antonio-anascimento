@@ -9,10 +9,11 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💼 Estagiário Fullstack — trabalhando com desenvolvimento web e mobile no dia a dia
+- 💼 Estagiário Fullstack — trabalhando com desenvolvimento web, mobile e desktop no dia a dia
 - 📱 Desenvolvendo aplicações mobile com **Java + Android Studio**
 - 🌐 Construindo interfaces com **HTML5, CSS3 e JavaScript**
 - ⚙️ Explorando o backend com **C#**
+- 🖥️ Desenvolvendo aplicações desktop com **WinForms + .NET**
 - 🗄️ Trabalhando com banco de dados utilizando **SQL Server**
 - 🚀 Em constante evolução, aprendendo algo novo a cada dia
 
@@ -35,6 +36,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" title="C#"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48" title="Visual Studio Community"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server"/>
+
+#### Desktop
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" title="C#"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" title=".NET / WinForms"/>
 
 #### Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>  
