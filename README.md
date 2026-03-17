@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Antonio Augusto 👋</h1>
+<h1 align="center">Olá, eu sou o Antonio Augusto </h1>
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> · Estagiário Fullstack
@@ -6,16 +6,16 @@
 
 <br/>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💼 Estagiário Fullstack — trabalhando com desenvolvimento web, mobile e desktop no dia a dia
-- 📱 Desenvolvendo aplicações mobile com **Java + Android Studio**
-- 🌐 Construindo interfaces com **HTML5, CSS3 e JavaScript**
-- ⚙️ Explorando o backend com **C#**
-- 🖥️ Desenvolvendo aplicações desktop com **WinForms + .NET**
-- 🗄️ Trabalhando com banco de dados utilizando **SQL Server**
-- 🚀 Em constante evolução, aprendendo algo novo a cada dia
+-  Cursando **Análise e Desenvolvimento de Sistemas**
+-  Estagiário Fullstack — trabalhando com desenvolvimento web, mobile e desktop no dia a dia
+-  Desenvolvendo aplicações mobile com **Java + Android Studio**
+-  Construindo interfaces com **HTML5, CSS3 e JavaScript**
+-  Explorando o backend com **C#**
+-  Desenvolvendo aplicações desktop com **WinForms + .NET**
+-  Trabalhando com banco de dados utilizando **SQL Server**
+-  Em constante evolução, aprendendo algo novo a cada dia
 
 <br/>
 
